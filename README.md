@@ -1,1 +1,5 @@
-This repository was maded to improve my skills with typescript, SOLID and Clean architecture
+## SOLID, Clean architecture and Tests.
+- Stack: 
+  - Jest
+  - Typescript
+  - Node
